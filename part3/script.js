@@ -12,3 +12,7 @@ for (var i = 0; i < trash.length; i++) {
         console.log("click détecté !");
     });
 }
+
+document.getElementById("button").addEventListener('click', function () {
+    
+})
