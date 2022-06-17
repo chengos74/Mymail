@@ -1,2 +1,1 @@
-"# Mymail" 
-"# Mymail" 
+"# Mymail" application
